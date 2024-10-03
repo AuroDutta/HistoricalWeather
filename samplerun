@@ -1,0 +1,208 @@
+Please enter your name: Eric
+Hi Eric, let's explore some historical temperatures.
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?1
+Please enter a zip code: 94065
+Main Menu
+1 - Replace Redwood City
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?2
+Please enter a zip code: 94022
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?3
+The average temperature in Redwood City is 19.30 degrees.
+The average temperature in Los Altos is 20.06 degrees.
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?4
+Enter a threshold temperature: 36
+There are 37 days when the temperature exceeded 36.0 degrees.
+Date: 1954-06-20, Temperature: 37.6 degrees
+Date: 1959-07-10, Temperature: 36.8 degrees
+Date: 1961-06-14, Temperature: 38.1 degrees
+Date: 1971-09-13, Temperature: 38.0 degrees
+Date: 1971-09-14, Temperature: 40.2 degrees
+Date: 1971-09-15, Temperature: 36.6 degrees
+Date: 1973-06-20, Temperature: 37.3 degrees
+Date: 1973-06-21, Temperature: 36.3 degrees
+Date: 1976-06-24, Temperature: 37.0 degrees
+Date: 1976-06-27, Temperature: 36.8 degrees
+Date: 1979-09-11, Temperature: 36.3 degrees
+Date: 1979-09-12, Temperature: 36.2 degrees
+Date: 1980-10-01, Temperature: 36.2 degrees
+Date: 1980-10-02, Temperature: 36.4 degrees
+Date: 1980-10-03, Temperature: 36.6 degrees
+Date: 1983-07-11, Temperature: 36.3 degrees
+Date: 1984-09-08, Temperature: 36.6 degrees
+Date: 1985-07-01, Temperature: 36.5 degrees
+Date: 1987-10-05, Temperature: 37.2 degrees
+Date: 1988-07-17, Temperature: 38.4 degrees
+Date: 1993-08-01, Temperature: 36.4 degrees
+Date: 2000-06-14, Temperature: 39.1 degrees
+Date: 2003-06-26, Temperature: 36.5 degrees
+Date: 2006-07-22, Temperature: 36.5 degrees
+Date: 2008-06-20, Temperature: 36.3 degrees
+Date: 2010-08-24, Temperature: 36.1 degrees
+Date: 2017-09-01, Temperature: 39.9 degrees
+Date: 2017-09-02, Temperature: 40.8 degrees
+Date: 2019-06-10, Temperature: 36.8 degrees
+Date: 2020-08-14, Temperature: 36.5 degrees
+Date: 2020-09-06, Temperature: 38.7 degrees
+Date: 2020-09-07, Temperature: 38.9 degrees
+Date: 2020-09-28, Temperature: 37.1 degrees
+Date: 2020-10-01, Temperature: 37.0 degrees
+Date: 2022-09-05, Temperature: 38.4 degrees
+Date: 2022-09-06, Temperature: 41.8 degrees
+Date: 2022-09-08, Temperature: 36.5 degrees
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?6
+Enter the new start date (YYYY-MM-DD): 2022-11-10
+Enter the new end date (YYYY-MM-DD): 2022-10-10
+Failed to change the end date: Can't load data for end date 2022-10-10: 'daily'
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?4
+Enter a threshold temperature: 36
+There are 0 days when the temperature exceeded 36.0 degrees.
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?6
+Enter the new start date (YYYY-MM-DD): 2000-10-10
+Enter the new end date (YYYY-MM-DD): 2010-10-10
+Dates successfully changed.
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?5
+Top 5 hottest days for Redwood City:
+Date: 2003-06-26, Temperature: 36.5°F
+Date: 2006-07-22, Temperature: 36.5°F
+Date: 2008-06-20, Temperature: 36.3°F
+Date: 2010-08-24, Temperature: 36.1°F
+Date: 2006-07-23, Temperature: 35.4°F
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?6
+Enter the new start date (YYYY-MM-DD): 2009-10-10
+Enter the new end date (YYYY-MM-DD): 2020-10-10
+Dates successfully changed.
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?5
+Top 5 hottest days for Redwood City:
+Date: 2017-09-02, Temperature: 40.8°F
+Date: 2017-09-01, Temperature: 39.9°F
+Date: 2020-09-07, Temperature: 38.9°F
+Date: 2020-09-06, Temperature: 38.7°F
+Date: 2020-09-28, Temperature: 37.1°F
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?6
+Enter the new start date (YYYY-MM-DD): e
+Failed to change the start date: Can't load data for start date e: 'daily'
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?5
+Top 5 hottest days for Redwood City:
+Date: 2017-09-02, Temperature: 40.8°F
+Date: 2017-09-01, Temperature: 39.9°F
+Date: 2020-09-07, Temperature: 38.9°F
+Date: 2020-09-06, Temperature: 38.7°F
+Date: 2020-09-28, Temperature: 37.1°F
+Main Menu
+1 - Replace Redwood City
+2 - Replace Los Altos
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice?9
+Goodbye! Thank you for using the database
